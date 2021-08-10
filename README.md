@@ -66,4 +66,8 @@ NavMesh Components: https://github.com/Unity-Technologies/NavMeshComponents
   - Script will create new GamesObject to store NavMesh Links for each **Mesh Terrain**
   - Script will add NavMesh Links on this GameObject with founded position.
   
+# Tags
+
+Navmesh “Chunks”, Multi-Scene, unity stitch navmesh, navmesh and multiple terrains, unity navmesh components multiple terrains, Loading Multiple NavMeshes using Additive Loading, Pathfinding With NavMesh
+  
 # Cheers!
